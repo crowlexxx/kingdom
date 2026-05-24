@@ -49,7 +49,4 @@
 > 💡 **Not**: Windows uyarı verebilir. Bu normaldir, "" a sonra "yine de çalıştır" a tıklayın.
 > 💡 **Not**: Antivirüs programları bazı durumlarda uyarı verebilir. Buda normaldir, "Çalıştır" veya "Güvenilir uygulama" olarak işaretleyin.
 
-### Kütüphaneler
-
-```bash
-pip install paramiko pillow pyautogui requests
+### created by crowlex for education
