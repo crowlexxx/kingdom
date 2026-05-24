@@ -21,21 +21,6 @@
 | 🔄 **Otomatik Yeniden Bağlanma** | Bağlantı koptuğunda otomatik yeniden bağlanma |
 | 📝 **Kullanıcı Kimlik Doğrulama** | Firebase entegrasyonu ile güvenli giriş |
 
----
-
-## 📥 İndirme
-
-### Windows için Hazır EXE (Önerilen)
-
-[![Download](https://img.shields.io/badge/📥_İNDİR-kingdom_tool_by_crowlex.zip-blue?style=for-the-badge&logo=windows)](https://github.com/crowlexxx/kingdom/releases/download/python/kingdom_tool_by_crowlex.zip)
-
-> ⚡ EXE dosyasını indirmek için yukarıdaki butona tıklayın. Python kurulumu gerektirmez.
-
-### Alternatif İndirme Linkleri
-
-| Platform | Dosya | İndir |
-|----------|-------|-------|
-| 🪟 Windows | kingdom_tool_by_crowlex.zip | [⬇️ İndir](https://github.com/crowlexxx/kingdom/releases/download/python/kingdom_tool_by_crowlex.zip) |
 
 ---
 
