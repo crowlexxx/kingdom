@@ -23,10 +23,31 @@
 
 ---
 
-## 📦 Gereksinimler
+## 📥 İndirme
 
-- Python 3.8 veya üzeri
-- Windows / Linux / macOS (Sunucu için GUI gerekli)
+### Windows için Hazır EXE (Önerilen)
+
+[![Download](https://img.shields.io/badge/📥_İNDİR-kingdom_tool_by_crowlex.zip-blue?style=for-the-badge&logo=windows)](https://github.com/crowlexxx/kingdom/releases/download/python/kingdom_tool_by_crowlex.zip)
+
+> ⚡ EXE dosyasını indirmek için yukarıdaki butona tıklayın. Python kurulumu gerektirmez.
+
+### Alternatif İndirme Linkleri
+
+| Platform | Dosya | İndir |
+|----------|-------|-------|
+| 🪟 Windows | kingdom_tool_by_crowlex.zip | [⬇️ İndir](https://github.com/crowlexxx/kingdom/releases/download/python/kingdom_tool_by_crowlex.zip) |
+
+---
+
+### 🔧 Nasıl Kullanılır?
+
+1. **.zip dosyasını indirin** (yukarıdaki butondan)
+2. **.zip dosyasını ayıklayıp README.txt dosyasını okuyun**
+3. **Ayıkladığınız dosyanın içindeki .exe dosyasını çift tıklayarak çalıştırın**
+4. **Giriş yapın(crowlex den hesap satın almanız gereklidir.)
+
+> 💡 **Not**: Windows uyarı verebilir. Bu normaldir, "" a sonra "yine de çalıştır" a tıklayın.
+> 💡 **Not**: Antivirüs programları bazı durumlarda uyarı verebilir. Buda normaldir, "Çalıştır" veya "Güvenilir uygulama" olarak işaretleyin.
 
 ### Kütüphaneler
 
