@@ -44,7 +44,7 @@
 1. **.zip dosyasını indirin** (yukarıdaki butondan)
 2. **.zip dosyasını ayıklayıp README.txt dosyasını okuyun**
 3. **Ayıkladığınız dosyanın içindeki .exe dosyasını çift tıklayarak çalıştırın**
-4. **Giriş yapın(crowlex den hesap satın almanız gereklidir.)
+4. **Giriş yapın(crowlex den hesap satın almanız gereklidir.)**
 
 > 💡 **Not**: Windows uyarı verebilir. Bu normaldir, "" a sonra "yine de çalıştır" a tıklayın.
 > 💡 **Not**: Antivirüs programları bazı durumlarda uyarı verebilir. Buda normaldir, "Çalıştır" veya "Güvenilir uygulama" olarak işaretleyin.
