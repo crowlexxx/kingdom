@@ -45,8 +45,7 @@
 2. **.zip dosyasını ayıklayıp README.txt dosyasını okuyun**
 3. **Ayıkladığınız dosyanın içindeki .exe dosyasını çift tıklayarak çalıştırın**
 4. **Giriş yapın(crowlex den hesap satın almanız gereklidir.)**
-
-> 💡 **Not**: Windows uyarı verebilir. Bu normaldir, "" a sonra "yine de çalıştır" a tıklayın.
+> 💡 **Not**: Windows uyarı verebilir. Bu normaldir, İlk önce "Ek bilgi" ye sonra "Yine de çalıştır" butonuna tıklayın.
 > 💡 **Not**: Antivirüs programları bazı durumlarda uyarı verebilir. Buda normaldir, "Çalıştır" veya "Güvenilir uygulama" olarak işaretleyin.
 
 ### created by crowlex for education
